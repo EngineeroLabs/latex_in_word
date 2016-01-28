@@ -1,3 +1,13 @@
-# LaTeX equation editing with macro-enabled Word documents
+# LaTeX in Word
 
-Migrating latexinword from Sourceforge.net to github.
+LaTeX in Word is a GPL-licensed tool that allows equations to be used in
+Microsoft Word documents. The client-side of the program is implemented as VBA
+macros in the document "LaTeXinWord.doc" along with instructions. Different
+versions of this file are provided for different versions of Microsoft Word.
+This Word document contains the source code, implementation, and documentation.
+
+Complete license information can be found in the file
+"gpl.txt".  Updates and additional information can be found on the GitHub
+project page:
+
+https://github.com/Engineero/latex_in_word
