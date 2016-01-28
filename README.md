@@ -7,8 +7,14 @@ version of Word. Different versions of this file are provided for different
 versions of Microsoft Word. This Word document contains the source code,
 implementation, and documentation for using LaTeX in Word.
 
+A default server is set up. If you wish to run your own server, see the
+Process_LaTeX project repository at:
+
+<https://github.com/Engineero/Process_LaTeX>
+
 Complete license information can be found in the file
 "gpl.txt".  Updates and additional information can be found on the GitHub
 project page:
 
-https://github.com/Engineero/latex_in_word
+<https://github.com/Engineero/latex_in_word>
+
