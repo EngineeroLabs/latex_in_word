@@ -7,6 +7,10 @@ version of Word. Different versions of this file are provided for different
 versions of Microsoft Word. This Word document contains the source code,
 implementation, and documentation for using LaTeX in Word.
 
+## Help Wanted
+
+If you'd like to help keep LaTeX in Word operational, we are looking for somebody who can get the default [Process_LaTeX server][1] up and running on github.io. See the [Process_LaTeX][1] project for more details.
+
 ## Installation for Windows
 
 Simply clone the repository:
@@ -51,3 +55,4 @@ additional information can be found on the GitHub project page:
 
 <https://github.com/Engineero/latex_in_word>
 
+[1]: https://github.com/Engineero/Process_LaTeX
